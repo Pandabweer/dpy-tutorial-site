@@ -1,5 +1,5 @@
 ---
-Title: Clarity Docs
+Title: Extra
 weight: 10
 ---
 

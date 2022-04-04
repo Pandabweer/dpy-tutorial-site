@@ -3,15 +3,12 @@ title: "Discord.py docs"
 weight: 1
 ---
 
-These docs consists of two parts:
+discord.py is a modern, easy to use, feature-rich, and async ready API wrapper for Discord.
 
-1. Hugo Compose Themes docs
-2. Hugo Clarity Theme docs.
+#### Features:
 
-Please note that the features listed under each theme are independent of each other. That is to say, some features may only be found in one theme and not in both.
-
-<!-- That content is better than dummy lorem ipsum 2) That content serves a good real-world demo for this theme 3) Publish more structured docs for each theme which are better than long blocky READMEs -->
-
-{{< button "./compose/" "Compose Theme Docs" "mb-1" >}}
-
-{{< button "./clarity/" "Clarity Theme Docs" >}}
+- Modern Pythonic API using async/await syntax
+- Sane rate limit handling that prevents 429s
+- Command extension to aid with bot creation
+- Easy to use with an object oriented design
+- Optimised for both speed and memory
